@@ -1,11 +1,13 @@
 ---
 date: '2013-06-22T21:32:08-04:00'
 draft: false
-title: 'Jerry Dit Bouake'
+title: "Jerry DIT,l'histoire d'un bidon à Bouaké."
 cover:
     image: 'images/jerry_dit/images_articles_bouake.jpg'
     alt: 'Les Quatres Mousquetaires'
     caption: 'De gauche à droite (Jean-Pierre KOUTOUAN, Nke Sébastien YAPO, Desmanois POTEY, et Florent YOUZAN)'
+tags: ["Jerry","Aventure","Ivory Coast"]
+categories: ["Tech","GNU/LINUX"]
 ---
 
 Du 14 au 17 Juin 2013, les membres de Jerrycan Abidjan Côte d’ivoire étaient à Bouaké.

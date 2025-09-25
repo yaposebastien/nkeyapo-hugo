@@ -2,6 +2,9 @@
 date: '2015-12-02T11:42:16-04:00'
 draft: false
 title: 'An Outstanding Hacker'
+
+tags: ["Inspiration"]
+categories: ["Tech","GNU/LINUX"]
 ---
 
 Today, technology has become an integral part of our everyday life. However, this digital lifestyle also 
