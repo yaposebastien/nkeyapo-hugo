@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/an-outstanding-hacker/</loc>
+    <loc>https://nkeyapo.com/posts/an-outstanding-hacker/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://nkeyapo.com/categories/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gnu/linux/</loc>
+    <loc>https://nkeyapo.com/categories/gnu/linux/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/inspiration/</loc>
+    <loc>https://nkeyapo.com/tags/inspiration/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://nkeyapo.com/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://nkeyapo.com/posts/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nkeyapo.com/tags/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
+    <loc>https://nkeyapo.com/categories/tech/</loc>
     <lastmod>2015-12-02T11:42:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aventure/</loc>
+    <loc>https://nkeyapo.com/tags/aventure/</loc>
     <lastmod>2013-06-22T21:32:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ivory-coast/</loc>
+    <loc>https://nkeyapo.com/tags/ivory-coast/</loc>
     <lastmod>2013-06-22T21:32:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jerry/</loc>
+    <loc>https://nkeyapo.com/tags/jerry/</loc>
     <lastmod>2013-06-22T21:32:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jerry-dit-bouake/</loc>
+    <loc>https://nkeyapo.com/posts/jerry-dit-bouake/</loc>
     <lastmod>2013-06-22T21:32:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://nkeyapo.com/about/</loc>
   </url>
 </urlset>
