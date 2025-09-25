@@ -1,3 +1,6 @@
 baseURL: https://nkeyapo.com/
 languageCode: en-us
 title: Nke Sebastien Yapo ::..The Blog
+theme: PaperMod
+enableRobotsTXT: true
+
