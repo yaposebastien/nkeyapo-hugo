@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nke Sebastien Yapo ::..The Blog</title>
-    <link>https://nkeyapo.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Nke Sebastien Yapo ::..The Blog</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Dec 2015 11:42:16 -0400</lastBuildDate>
-    <atom:link href="https://nkeyapo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Outstanding Hacker</title>
-      <link>https://nkeyapo.com/posts/an-outstanding-hacker/</link>
+      <link>http://localhost:1313/posts/an-outstanding-hacker/</link>
       <pubDate>Wed, 02 Dec 2015 11:42:16 -0400</pubDate>
-      <guid>https://nkeyapo.com/posts/an-outstanding-hacker/</guid>
+      <guid>http://localhost:1313/posts/an-outstanding-hacker/</guid>
       <description>&lt;p&gt;Today, technology has become an integral part of our everyday life. However, this digital lifestyle also
 gives rise to the breach of our rights such as privacy, copyright, and so on.
 In the midst of those important challenges, as a tireless defender, Richard Matthew Stallman justified
@@ -24,9 +24,9 @@ his activism and his benevolent personality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jerry DIT,l&#39;histoire d&#39;un bidon à Bouaké.</title>
-      <link>https://nkeyapo.com/posts/jerry-dit-bouake/</link>
+      <link>http://localhost:1313/posts/jerry-dit-bouake/</link>
       <pubDate>Sat, 22 Jun 2013 21:32:08 -0400</pubDate>
-      <guid>https://nkeyapo.com/posts/jerry-dit-bouake/</guid>
+      <guid>http://localhost:1313/posts/jerry-dit-bouake/</guid>
       <description>&lt;p&gt;Du 14 au 17 Juin 2013, les membres de Jerrycan Abidjan Côte d’ivoire étaient à Bouaké.&lt;/p&gt;
 &lt;p&gt;En effet, invités par les élèves ingénieurs du Groupe ITA Bouaké, les quatres mousquetaires répondant au nom de Florent YOUZAN, Jean-Pierre KOUTOUAN, Desmanois POTEY et Sébastien YAPO, étaient présents à cette rencontre.&lt;/p&gt;
 &lt;p&gt;Nous avons trouvé sur place une administration soucieuse de la bonne qualité de la formation et des étudiants motivés à en découdre avec ce bidon loin d’être bidon.&lt;/p&gt;</description>
