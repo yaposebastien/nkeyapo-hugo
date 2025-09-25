@@ -5,6 +5,18 @@ theme: PaperMod
 enableRobotsTXT: true
 
 params:
+  homeInfoParams:
+    Title: "Akwaba! Bienvenu(e) sur mon blog! Welcome!"
+    Content: "Tu le sauras quand tu sauras que tu ne sais pas et que tu attendras de savoir. - Amadou Hampâté Bâ"
+    image: 'images/ny9.jpg'
+    imageAlt: "Nke Sébastien Yapo"
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/yaposebastien"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/nke-sebastien-yapo-b581bb16/"
+ 
+
   cover:
     linkFullImage: true
   ShowBreadCrumbs: true
