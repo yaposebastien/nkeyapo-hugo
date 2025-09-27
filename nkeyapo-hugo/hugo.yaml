@@ -5,11 +5,17 @@ theme: PaperMod
 enableRobotsTXT: true
 
 params:
-  homeInfoParams:
-    Title: "Akwaba! Bienvenu(e) sur mon blog! Welcome!"
-    Content: "Tu le sauras quand tu sauras que tu ne sais pas et que tu attendras de savoir. - Amadou Hampâté Bâ"
-    image: 'images/ny9.jpg'
-    imageAlt: "Nke Sébastien Yapo"
+
+  profileMode:
+    enabled: true
+    title: "Akwaba! | Bienvenu(e)! | Welcome!"
+    subtitle: "Tu le sauras quand tu sauras que tu ne sais pas et que tu attendras de savoir. -     Hampâté Bâ"
+    imageUrl: "images/ny9.jpg" 
+    imageTitle: "Nke Sebastien Yapo" 
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    
+
   socialIcons:
     - name: "github"
       url: "https://github.com/yaposebastien"
@@ -28,18 +34,15 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 1
+  
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 2
+      weight: 1
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 3
+      weight: 2
   
 
 
